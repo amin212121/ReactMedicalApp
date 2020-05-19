@@ -1,0 +1,32 @@
+.container {
+
+    display: flex;
+    justify-content: center;
+}
+
+.firstblock {
+    display: flex;
+    flex-flow: column;
+
+}
+
+.secondblock {
+
+
+}
+
+.pagnitation {
+    text-align: center;
+    padding: 50px;
+
+    cursor: pointer;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.loadimg {
+    text-align: center;
+}
+
